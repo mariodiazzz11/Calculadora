@@ -14,7 +14,7 @@ Este es un proyecto de **calculadora** desarrollado en **C#**. La calculadora of
 
 ## 📷 Captura de Pantalla
 
-![Vista previa del proyecto](imagenes/captura_calculadora_csharp.png)
+![Vista previa del proyecto](imagenes/Foto_CalculadoraC#.png)
 
 ## 🔧 Requisitos
 
